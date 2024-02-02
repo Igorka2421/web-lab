@@ -1,0 +1,31 @@
+{
+    "short_name": "React App",
+    "name": "Create React App Sample",
+    "icons": [
+      {
+        "src": "path_to_image/audiq8.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "path_to_image/mers.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "path_to_image/p6_img",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "path_to_image/volvo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
