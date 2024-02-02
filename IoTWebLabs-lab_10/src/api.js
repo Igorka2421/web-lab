@@ -7,7 +7,7 @@ export const getAllCars = async (filters = {}) => {
     const response = await axios.get(`${BASE_URL}`, { params: filters });
     return response.data;
   } catch (error) {
-    console.error('Error fetchng cars:', error);
+    console.error('Error fetching cars:', error);
     throw error;
   }
 };
